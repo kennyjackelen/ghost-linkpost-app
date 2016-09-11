@@ -18,5 +18,10 @@
   "homepage": "https://github.com/kennyjackelen/ghost-linkpost-app#readme",
   "dependencies": {
     "ghost-app": "git://github.com/TryGhost/ghost-app.git#master"
+  },
+  "ghost": {
+    "permissions": {
+      "helpers": ["browse", "read", "edit", "add", "destroy"]
+    }
   }
 }
