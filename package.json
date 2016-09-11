@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/kennyjackelen/ghost-linkpost-app#readme",
   "dependencies": {
-    "ghost-app": "0.0.3"
+    "ghost-app": "git://github.com/TryGhost/ghost-app.git#master"
   }
 }
