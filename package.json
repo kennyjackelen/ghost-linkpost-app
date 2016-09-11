@@ -21,7 +21,7 @@
   },
   "ghost": {
     "permissions": {
-      "helpers": ["browse", "read", "edit", "add", "destroy"]
+      "helpers": ["linkpost"]
     }
   }
 }
